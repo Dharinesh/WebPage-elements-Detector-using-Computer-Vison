@@ -17,7 +17,7 @@ You can install the required packages using pip:
 ```bash
 pip install transformers torch Pillow requests inference-sdk
 pip install opencv-python-headless matplotlib
-
+```
 ## Setting up Roboflow API
 
 To use the Roboflow API, you need to obtain your API key from the Roboflow platform. Once you have your API key, replace `"YOUR_API_KEY_HERE"` in the code with your actual API key.
