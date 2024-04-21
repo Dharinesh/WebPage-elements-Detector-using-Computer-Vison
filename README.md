@@ -31,4 +31,4 @@ To use the Roboflow API, you need to obtain your API key from the Roboflow platf
 
 ## License
 
-This project is licensed under the GNU License. See it file for details.
+This project is licensed under the GPL 3.0 License.
