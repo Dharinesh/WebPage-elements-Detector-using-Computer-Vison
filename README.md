@@ -29,6 +29,13 @@ To use the Roboflow API, you need to obtain your API key from the Roboflow platf
 3. **Iterate through the images** in the contents folder and perform inference on each image using the initialized client.
 4. The **detected objects and their classes** will be visualized on the images.
 
+## Sample Input: 
+![2](https://github.com/Dharinesh/WebPage-elements-Detector-using-Computer-Vison/assets/108059896/20d8c622-a559-4ae1-a9cf-df2a3fe92d21)
+
+## Output: 
+![image](https://github.com/Dharinesh/WebPage-elements-Detector-using-Computer-Vison/assets/108059896/124d3789-b8e4-4fb3-a625-9bbcf4b97168)
+
+
 ## License
 
 This project is licensed under the GPL 3.0 License.
